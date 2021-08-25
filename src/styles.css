@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+:root {
+  --primary-color: #4338ca;
+}
+
+input {
+  padding: 1 rem;
+  color: var(--primary-color);
+  margin: auto;
+  width: 80%;
+  height: 2rem;
+}
